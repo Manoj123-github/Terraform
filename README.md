@@ -17,3 +17,9 @@ Plan: Terraform creates an execution plan describing the infrastructure it will 
 Apply: On approval, Terraform performs the proposed operations in the correct order, respecting any resource dependencies. For example, if you update the properties of a VPC and change the number of virtual machines in that VPC, Terraform will recreate the VPC before scaling the virtual machines.
 
 ![image](https://github.com/Manoj123-github/Terraform/assets/76830665/f71a0e32-7740-493b-976e-4aaba8a66c0e)
+
+
+
+# Install Terraform 
+
+   Installation.md
