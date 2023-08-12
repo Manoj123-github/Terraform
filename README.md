@@ -22,4 +22,4 @@ Apply: On approval, Terraform performs the proposed operations in the correct or
 
 # Install Terraform 
 
-   Installation.md
+   Follow Installation.md file 
