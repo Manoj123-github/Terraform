@@ -1,4 +1,4 @@
-# Build infrastructure
+# Build infrastructure steps
 
  1. Write configuration and save with .tf
  2. terraform init
